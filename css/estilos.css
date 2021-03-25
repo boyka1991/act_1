@@ -108,3 +108,13 @@ li a:hover{
     height: 25%;
     padding: 3%;
 }
+table{
+    text-align: justify;
+}
+.map{
+    background-color:lightcoral;
+    padding: 17px;
+    font-size: x-large;
+    font-family: sans-serif;
+    text-align: left;
+}
