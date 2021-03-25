@@ -129,3 +129,15 @@ table td a:hover{
     background-color: darkolivegreen;
 
 }
+table td p{
+    color: beige;
+    text-align: left;
+    margin-left: 20px;
+}
+.ani{
+    background-color:lightcoral;
+    padding: 10px;
+    font-size: x-large;
+    font-family: sans-serif;
+    text-align: left;
+}
