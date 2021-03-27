@@ -121,12 +121,14 @@ table{
 table td a{
     color: beige;
     text-decoration: none;
-    text-align: center;
+    text-align:right;
     font-family: sans-serif;
     font-size: x-large;
+    margin-left: 30px;
 }
-table td a:hover{
+table td  a:hover{
     background-color: darkolivegreen;
+    
 
 }
 table td p{

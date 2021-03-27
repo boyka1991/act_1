@@ -36,8 +36,6 @@ li a:hover{
     color: beige;
     float: left; 
 }
-
-
 .footter{
     font-family: sans-serif;
     color: beige;
@@ -101,8 +99,9 @@ table td a:hover{
 }
 table td p{
     color: beige;
-    text-align: left;
+    text-align: justify;
     margin-left: 20px;
+    font-size: large;
 }
 .ani{
     background-color:lightcoral;
