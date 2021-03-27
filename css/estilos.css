@@ -3,7 +3,7 @@
 
 }
 body{
-    background-color:darkslategray;
+    background-color:rgba(26, 44, 44, 0.815);
     margin-right: 5%;
 }
 .head{
@@ -37,7 +37,7 @@ li a:hover{
     float: left; 
 }
 .art1{
-    background-color:slategray;
+    background-color:rgba(0, 215, 243, 0.712);
     font-family: sans-serif;
     font-size: medium;
     text-align: left;
@@ -45,7 +45,7 @@ li a:hover{
     padding: 7%;
 }
 .art2{
-    background-color:darkgoldenrod;
+    background-color:rgba(255, 221, 0, 0.973);
     font-family: sans-serif;
     font-size: medium;
     text-align: left;
@@ -53,7 +53,7 @@ li a:hover{
     padding: 7%;
 }
 .art3{
-    background-color:chocolate;
+    background-color:rgba(255, 123, 0, 0.925);
     font-family: sans-serif;
     font-size: medium;
     text-align: left;
@@ -61,7 +61,7 @@ li a:hover{
     padding: 7%;
 }
 .art4{
-    background-color:crimson;
+    background-color:rgba(255, 0, 17, 0.877);
     font-family: sans-serif;
     font-size: medium;
     text-align: left;
